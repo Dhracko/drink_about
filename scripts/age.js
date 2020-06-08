@@ -1,1 +1,1 @@
-var age = 14
+let age = 14
